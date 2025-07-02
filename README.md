@@ -117,8 +117,8 @@ frontend/
 
  Admin dashboard (future enhancement)
 
-👨‍💻 Author
-Nahid Hasan Nobil
+## 👨‍💻 Author
+# Nahid Hasan Nobil
 
 Built as part of a practical university full-stack project to simulate real-world healthcare system workflow.
 
