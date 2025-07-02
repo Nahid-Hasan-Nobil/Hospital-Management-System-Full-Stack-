@@ -79,7 +79,7 @@ Visit App
 arduino
 http://localhost:3000
 
-##📂 Folder Structure
+## 📂 Folder Structure
 
 backend/
 ├── src/
@@ -98,7 +98,7 @@ frontend/
 │   ├── feedback/
 │   └── doctor-dashboard/
 
-##✅ To-Do Features
+## ✅ To-Do Features
  Patient login via phone number
 
  Doctor login with OTP-based password reset
