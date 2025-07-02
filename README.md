@@ -58,41 +58,29 @@ Configure Environment
 Create .env file:
 
 ini
-Copy
-Edit
 DATABASE_URL=postgresql://user:password@localhost:5432/hospital
 JWT_SECRET=your_jwt_secret
 Run the Server
 
 bash
-Copy
-Edit
 npm run start:dev
 Frontend (Next.js)
 Install Dependencies
 
 bash
-Copy
-Edit
 cd frontend
 npm install
 Start Development Server
 
 bash
-Copy
-Edit
 npm run dev
 Visit App
 
 arduino
-Copy
-Edit
 http://localhost:3000
 
-##📂 Folder Structure
-cpp
-Copy
-Edit
+📂 Folder Structure
+
 backend/
 ├── src/
 │   ├── auth/
